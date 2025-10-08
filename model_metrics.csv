@@ -1,0 +1,10 @@
+﻿model_metrics
+"Metric,Value"
+"MAE,4.95"
+"MSE,56.61"
+"R2,0.93"
+"Model,Gradient Boosting"
+"n_estimators,200"
+"max_depth,6"
+"learning_rate,0.1"
+"random_state,42"
